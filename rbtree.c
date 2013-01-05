@@ -1,7 +1,5 @@
 #include "rbtree.h"
 
-extern RBTNode* nil;
-
 
 RBTNode* RBT_CreateNode( int key, void* data )
 {
